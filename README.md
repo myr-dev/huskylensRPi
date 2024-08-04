@@ -55,4 +55,5 @@ Flow of program
 1. Attempt to establish communication with Huskylens
 2. If successful, configure the Huskylens to perform Object Classification
 3. For each detected object ID, play voice annoucement via Text to Speech
+4. For example, if metal can is recognized, then will play TTS "Metal", and further action could be carried out if needed.
     
