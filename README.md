@@ -21,11 +21,11 @@ Pin out
 (Please refer to the documentation of Huskylens and Raspberry Pi respectively)
 
 Huskylens:
-T = SDA
+T = SDA,
 R = SCL
 
 Raspberry Pi 4B:
-Pin 3 = SDA
+Pin 3 = SDA,
 Pin 5 = SCL
 
 -----------------------------------------------------
