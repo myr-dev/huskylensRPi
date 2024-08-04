@@ -16,7 +16,7 @@ and then associate the detected ID with its type (e.g. Metal), and play the resp
 Text-to-Speak.
 
 -----------------------------------------------------
-Pin out 
+Connection & Pin out 
 -----------------------------------------------------
 (Please refer to the documentation of Huskylens and Raspberry Pi respectively)
 
